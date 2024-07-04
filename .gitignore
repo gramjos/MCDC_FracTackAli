@@ -1,0 +1,8 @@
+# jupyter
+.ipynb_checkpoints
+
+# mypy
+.mypy_cache
+
+# dot env
+.env
