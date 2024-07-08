@@ -1,0 +1,1497 @@
+// photosets : JSONObject = flickr.photosets.getList(user_id=user_id)
+{
+    "photosets": {
+        "page": 1,
+        "pages": 1,
+        "perpage": 500,
+        "total": 55,
+        "photoset": [
+            {
+                "id": "72157715916543893",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49834137413",
+                "secret": "634cf62241",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "803",
+                "count_comments": "0",
+                "count_photos": 1099,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Appalachian Buildout"
+                },
+                "description": {
+                    "_content": "These photos illustrate the fossil fuel industry buildout across the Appalachian region of the US."
+                },
+                "can_comment": 0,
+                "date_create": "1599757138",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 1099,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157718955813667",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "51119555313",
+                "secret": "5d715b3c16",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "251",
+                "count_comments": "0",
+                "count_photos": 39,
+                "count_videos": 1,
+                "title": {
+                    "_content": "California"
+                },
+                "description": {
+                    "_content": "These photos show the fossil fuel extraction operations in various locations around California. California is home to the largest urban oilfield, an expansive landscape that brings undue harms to public health of Frontline communities and the environment."
+                },
+                "can_comment": 0,
+                "date_create": "1618597790",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 39,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715839488573",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810217573",
+                "secret": "eceafd403d",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "255",
+                "count_comments": "0",
+                "count_photos": 623,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Channels of Life: the Gulf Coast Buildout in TX"
+                },
+                "description": {
+                    "_content": "Before heavy industry moved in to the Coastal Bend, cotton was king and farm commodities were the predominate exports of the Port of Corpus Christi. Beginning in the 1930s, the fossil fuel industry began moving into the area, and it has grown dramatically since. Promising job and economic growth, it brought enormous environmental consequences to the area, with increasing emissions and discharge that continue to infringe on neighborhoods and degrade ecosystems. In the last five years, massive buildout has brought in ever-expanding plastics and steel manufacturing sites, and pipelines from the Permian Basin that transport crude to expanding tank farms and marine terminals - all with the blessings of local economic development corporations, government, and the increasingly authoritarian Port of Corpus Christi Authority. Channels of Life takes a look at what is already here and what is to come. Whether you are pleasure-boating in the channels or driving down the highway, you only see the edge of industrial sprawl that already exists. The depth of the incursion is not visible from ground level. Flying from Port Aransas, up the La Quinta Channel, to the Nueces Delta and ending at Refinery Row, this album offers a bird\u2019s eye view of what we have now, and what is on the horizon.  It begs the questions, how much more industrial saturation can the Coastal Bend\u2019s public health and ecosystem withstand before it is all sacrificed? Is it destined to become a sacrifice zone for increasing corporate wealth and prestige? "
+                },
+                "can_comment": 0,
+                "date_create": "1599234864",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 623,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714012190006",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "50346272706",
+                "secret": "5552a0718a",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "257",
+                "count_comments": "0",
+                "count_photos": 100,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Coal Mining"
+                },
+                "description": {
+                    "_content": "Underground mines generally affect the landscape less than surface mines. But, mine tunnels can collapse and lead to acidic water draining from abandoned underground mines into soil and groundwater. Methane gas in coal deposits can explode if it concentrates in underground mines. This coalbed methane must be vented out of mines to make mines safer places to work. According to the Energy Information Administration, &quot;in 2017, methane emissions from coal mining and abandoned coal mines accounted for about 9% of total US methane emissions, and nearly 1% of total US greenhouse gas emissions (based on global warming potential).&quot; Several emissions result from coal combustion, including sulfur dioxide, particulates, carbon dioxide, ashes, and mercury and other heavy metals. These photos illustrate the buildout and of coal mining facilities, infrastructure and activities - and the environmental degradation that comes with it - in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587668221",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 100,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714222642517",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49743349412",
+                "secret": "4efbc3b1fe",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "79",
+                "count_comments": "0",
+                "count_photos": 586,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Coastal & Marine Environments"
+                },
+                "description": {
+                    "_content": "These photos illustrate the diverse coastal and marine habitats and ecosystems in places around the US. Whether adjacent to fossil fuel infrastructure and activity, in danger of being exploited for those purposes, or protected and maintained for ecological health and services, these places are important to remember and deserving of our stewardship and protection."
+                },
+                "can_comment": 0,
+                "date_create": "1588963344",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 586,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714265378312",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49884089836",
+                "secret": "ef49f0f9c2",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "703",
+                "count_comments": "0",
+                "count_photos": 747,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Communities"
+                },
+                "description": {
+                    "_content": "These photos depict communities adjacent to oil, gas, and petrochemical infrastructure and buildout. The images illustrate the different peoples juxtaposed to these industries, and they offer insight on how the fossil fuel industry alters, influences, or coincides with the ways of life in these areas."
+                },
+                "can_comment": 0,
+                "date_create": "1589226954",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 747,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713782049298",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49834154263",
+                "secret": "45a5b3b623",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "514",
+                "count_comments": "0",
+                "count_photos": 231,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Compressor Stations"
+                },
+                "description": {
+                    "_content": "Compressor stations are machines that raise the pressure of gasses by drawing in low-pressure gas and discharging it at significantly higher pressures. These facilities enable natural gas to flow through pipelines. These photos depict compressor stations in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586199330",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 231,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715838976098",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "50199918951",
+                "secret": "f815cb11fe",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "568",
+                "count_comments": "0",
+                "count_photos": 761,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Construction"
+                },
+                "description": {
+                    "_content": "Construction of infrastructure to support unconventional oil and gas development has exploded in the past decade. Laying pipelines destroys forests, erases habitats and disconnects important corridors for numerous species, and contributes to erosion and soil contamination and infertility. Besides problems associated with degrading land, construction brings increased air emissions, truck and ship traffic, and marine and freshwater contamination. The photos in this album illustrate construction of O&amp;G infrastructure in places around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1599232252",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 761,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713999613671",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810631936",
+                "secret": "eb845f8e5f",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "682",
+                "count_comments": "0",
+                "count_photos": 541,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Cracker Plants & Ethylene"
+                },
+                "description": {
+                    "_content": "&quot;Cracker plant&quot; is industry lingo describing a plant that takes natural gas and breaks it into smaller molecules to create ethylene. Ethane crackers plants perform the first step in the transformation process, separating ethane \u2013 a component of natural gas\u2014into ethylene, the building block of plastics and other industrial products. They use extreme heat to 'crack' the molecular bonds in ethane to produce this material. Ethylene is a critical building block for the petrochemical industry, and is among the most produced organic compounds. Ethane crackers depend on natural gas for their ethane supply, and these plants also use natural gas to generate electricity. Plus, building more ethane cracker plants necessitates increased construction of fracking infrastructure, all of which slows down the transition to renewable energy. These photos illustrate the buildout of infrastructure and transportation lines that the oil, gas, and petrochemical industry utilizes to transform resources into petrochemicals and plastics. "
+                },
+                "can_comment": 0,
+                "date_create": "1587584833",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 541,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714221113491",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49870713728",
+                "secret": "b24f37938e",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "344",
+                "count_comments": "0",
+                "count_photos": 316,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Culture & Livelihoods"
+                },
+                "description": {
+                    "_content": "These photos explore various aspects of American culture, from the diversity of livelihoods and landscapes out there, to the different uses and utilities of land and natural resources, and how people and communities have carved out paths for themselves."
+                },
+                "can_comment": 0,
+                "date_create": "1588963859",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 316,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713805087661",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49750374941",
+                "secret": "19f49c0ca4",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "2895",
+                "count_comments": "0",
+                "count_photos": 609,
+                "count_videos": 3,
+                "title": {
+                    "_content": "Drilling & Fracking"
+                },
+                "description": {
+                    "_content": "\u201cFracking\u201d wells are drilled thousands of feet into the ground to reach a target oil or gas reservoir. The well then turns horizontally to intersect and remain within the reservoir (e.g. shale layer) for distances that can reach over three miles. A mixture of water, sand, and chemicals are injected into the well at high pressures, and explode out of the well bore to crack open the shale rock, releasing oil and gas. These photos depict oil and gas drilling and fracking infrastructure and buildout in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586361883",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 609,
+                "videos": 3,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72177720306424638",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "52704951629",
+                "secret": "2118b7ca86",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "206",
+                "count_comments": "0",
+                "count_photos": 62,
+                "count_videos": 0,
+                "title": {
+                    "_content": "East Palestine Train Derailment"
+                },
+                "description": {
+                    "_content": "This album documents the environmental and community impacts of the February 2023 Norfolk Southern train derailment in East Palestine, Ohio."
+                },
+                "can_comment": 0,
+                "date_create": "1677787521",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 62,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715400012723",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "50200226817",
+                "secret": "b6533ca305",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "69",
+                "count_comments": "0",
+                "count_photos": 53,
+                "count_videos": 3,
+                "title": {
+                    "_content": "Endless Effects: the Loyalsock Watershed Project"
+                },
+                "description": {
+                    "_content": "Endless Effects examines local fracking issues, the extensive footprint of the gas industry, and the problems encountered to date. It is an educational tool and reference for area residents and anyone concerned about the degradation of forests, streams, and other natural resources that accompanies extraction, including its role in accelerating climate change."
+                },
+                "can_comment": 0,
+                "date_create": "1596833790",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 53,
+                "videos": 3,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72177720305148733",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "52560300868",
+                "secret": "11fdb9c0a6",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "134",
+                "count_comments": "0",
+                "count_photos": 652,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Environmental Justice"
+                },
+                "description": {
+                    "_content": "Images of the profound and often disproportionate impacts of fossil fuel infrastructure on low-income communities, communities of color, and other marginalized groups. This collection highlights the environmental and social challenges these communities face due to the pervasive presence of fossil fuel industries."
+                },
+                "can_comment": 0,
+                "date_create": "1673363381",
+                "date_update": "1717014839",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 652,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713930502332",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49802470637",
+                "secret": "f8319c1162",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "697",
+                "count_comments": "0",
+                "count_photos": 158,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Explosions, Fires, & Flaring"
+                },
+                "description": {
+                    "_content": "Besides the hazard of possible spills, leachate, poisonous emissions, and air, soil, and water contamination, fossil fuel infrastructure carries the potential for accidents of many kinds. These risks contribute great harm to the environment and communities around these sites - resulting in emergency evacuations, damage to homes, public gathering places, and habitats, injuries to workers and neighbors, and sometimes death. Flaring is a combustion process that burns off associated, unwanted, or excess gases and liquids released during normal or unplanned over-pressuring operations in many industrial processes, such as extraction, refinement, chemical plants and coal industry operations, and waste disposal at landfills. The photos in this album depict explosions, fires, and instances of flaring during the fracking process in various locations across the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587147607",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 158,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714220749338",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49811103642",
+                "secret": "147846bdfe",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "113",
+                "count_comments": "0",
+                "count_photos": 125,
+                "count_videos": 2,
+                "title": {
+                    "_content": "Forests"
+                },
+                "description": {
+                    "_content": "These photos depict forest landscapes in various locations around the US. These places are juxtaposed to fossil fuel activity, subjected to it already, or threatened by its expansion."
+                },
+                "can_comment": 0,
+                "date_create": "1588956749",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 125,
+                "videos": 2,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713728924116",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728472846",
+                "secret": "3baa76f731",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "538",
+                "count_comments": "0",
+                "count_photos": 509,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Frac Sand Mining"
+                },
+                "description": {
+                    "_content": "Frac sand is a high-purity quartz sand injected into wells to blast and hold open cracks in the shale rock layer during the fracking process. In the US, frac sand is being mined intensively from sandstone deposits across large swaths of land in Wisconsin, Illinois, Minnesota, and Michigan. With the sand, however, comes several air, water, and public health concerns. These include but are not limited to: displacing agricultural lands and ecologically sensitive ecosystems; damaging surface water, like streams; and\nintroducing silica sand into the air, which is a human health hazard. Additionally, community tensions and distrust often follow such a major industrial expansion. These photos depict frac sand mining and infrastructure in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1585855304",
+                "date_update": "1718218903",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 509,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713730887622",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728600276",
+                "secret": "f8d6b4c298",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "317",
+                "count_comments": "0",
+                "count_photos": 430,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Frac Sand Storage & Processing"
+                },
+                "description": {
+                    "_content": "These photos depict frac sand storage and processing facilities and sites across the US."
+                },
+                "can_comment": 0,
+                "date_create": "1585857000",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 430,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713731035312",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728939747",
+                "secret": "e0d7701f4a",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "159",
+                "count_comments": "0",
+                "count_photos": 268,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Frac Sand Transportation"
+                },
+                "description": {
+                    "_content": "These photos depict frac sand transport facilities and processes in various locations across the US."
+                },
+                "can_comment": 0,
+                "date_create": "1585857799",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 268,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714264815182",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49743045641",
+                "secret": "7d0863c339",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "92",
+                "count_comments": "0",
+                "count_photos": 365,
+                "count_videos": 2,
+                "title": {
+                    "_content": "Freshwater Ecosystems"
+                },
+                "description": {
+                    "_content": "These photos depict freshwater ecosystems in various locations around the US. These areas are imperative for the provision of ecosystem services, like soil retainment and erosion control, water and soil purification, and oxygen production and carbon dioxide abatement."
+                },
+                "can_comment": 0,
+                "date_create": "1589223926",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 365,
+                "videos": 2,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714219325946",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49870911993",
+                "secret": "460e56bf01",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "39",
+                "count_comments": "0",
+                "count_photos": 75,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Grasslands & Prairies"
+                },
+                "description": {
+                    "_content": "Oil and gas activities can harm endangered species, critical habitats, watersheds, and ecosystems by polluting the air and water, installing disrupting infrastructure such as roads or pipelines, creating noise and light pollution, and more. These photos depict grasslands and prairie ecosystems around the US: places either juxtaposed to oil, gas, or petrochemical activity; places where fossil fuel activity exists; places subjected to industry expansion and buildout; or, places that have been protected from such activities."
+                },
+                "can_comment": 0,
+                "date_create": "1588954212",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 75,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715920413807",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49785965857",
+                "secret": "0d1a87ba22",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "126",
+                "count_comments": "0",
+                "count_photos": 598,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Gulf Coast Buildout"
+                },
+                "description": {
+                    "_content": "These photos depict fossil fuel industry infrastructure and activities along the Gulf Coast in the US."
+                },
+                "can_comment": 0,
+                "date_create": "1599757237",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 598,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715916568803",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728883947",
+                "secret": "d7e32eed5e",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "182",
+                "count_comments": "0",
+                "count_photos": 119,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Illinois"
+                },
+                "description": {
+                    "_content": "These photos offer a glimpse of the fossil fuel industry infrastructure and activity in the state of Illinois."
+                },
+                "can_comment": 0,
+                "date_create": "1599757282",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 119,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713806725802",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49770539501",
+                "secret": "c7d66edd33",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "156",
+                "count_comments": "0",
+                "count_photos": 254,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Impoundment Ponds"
+                },
+                "description": {
+                    "_content": "These photos illustrate impoundment ponds and oil and gas waste infrastructure in various locations around the US. Though impoundment or retention ponds reduce the need for transport, the structures pose enormous hazards to the environment &amp; public health, as not all of what is stored in these pits is freshwater. Wastewater from hydraulic fracturing can include corrosive, toxic, and/or radioactive contaminants."
+                },
+                "can_comment": 0,
+                "date_create": "1586361763",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 254,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713930554732",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49802750551",
+                "secret": "06b07d2c3c",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "427",
+                "count_comments": "0",
+                "count_photos": 169,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Injection Wells"
+                },
+                "description": {
+                    "_content": "These photos depict injection wells and injection well activities in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587147889",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 169,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714264121333",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49870844656",
+                "secret": "f7d7cc913e",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "106",
+                "count_comments": "0",
+                "count_photos": 105,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Land Preservation & Management"
+                },
+                "description": {
+                    "_content": "These photos illustrate ways that land is used, preserved and managed for different industries and diverse livelihoods in various locations around the US. Some areas are utilized for agriculture and farming practices, sustainable use and protection of natural resources, or land preservation and conservation for ecosystem services - or some combination of these. Land and natural resource utility varies across sectors, industries and communities, illustrating the diverse needs and uses of different peoples in different areas."
+                },
+                "can_comment": 0,
+                "date_create": "1589223640",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 105,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72177720311125662",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "53169410570",
+                "secret": "786d76deef",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "42",
+                "count_comments": "0",
+                "count_photos": 370,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Louisiana"
+                },
+                "description": {
+                    "_content": ""
+                },
+                "can_comment": 0,
+                "date_create": "1694467001",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 370,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714221354791",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49870891698",
+                "secret": "195bb1321b",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "48",
+                "count_comments": "0",
+                "count_photos": 472,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Marshes, Swamps, & Wetlands"
+                },
+                "description": {
+                    "_content": "O&amp;G activities can harm endangered species, critical habitats, watersheds, and ecosystems by polluting the air and water, installing disrupting infrastructure such as roads or pipelines, creating noise and light pollution, and more. These photos illustrate various wetland ecosystems and habitats across the US. These landscapes are used for multiple purposes - including irrigation and food production - and a multitude of ecological services, such as sediment and erosion control and water purification. These places are also important habitats for wildlife and flora, some species of which are endangered and in need of protection through land preservation and stewardship."
+                },
+                "can_comment": 0,
+                "date_create": "1588965226",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 472,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157718921606654",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "51114264586",
+                "secret": "621168de00",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "60",
+                "count_comments": "0",
+                "count_photos": 9,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Maryland"
+                },
+                "description": {
+                    "_content": "These photos show oil and gas expansion, operations, and construction in Maryland."
+                },
+                "can_comment": 0,
+                "date_create": "1618349268",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 9,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715464249628",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49750245862",
+                "secret": "6f2c830ae0",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "419",
+                "count_comments": "0",
+                "count_photos": 1017,
+                "count_videos": 2,
+                "title": {
+                    "_content": "Methane & Air and Water Quality Concerns"
+                },
+                "description": {
+                    "_content": "Oil and gas development negatively affects air and water quality. Construction, drilling, storage, transportation, processing, and the burning of fossil fuels are all sources of serious pollutants - including known carcinogens, radioactive substances, heavy metals, and other contaminants known to harm humans and the environment. Methane is the primary component of natural gas, and when it's released into the atmosphere before being burned, it traps heat and contributes to climate change. The photos here illustrate some of the harms fossil fuel industries wreak on the environment."
+                },
+                "can_comment": 0,
+                "date_create": "1597261595",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 1017,
+                "videos": 2,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715920439827",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49946607522",
+                "secret": "2b91af3149",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "398",
+                "count_comments": "0",
+                "count_photos": 393,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Michigan"
+                },
+                "description": {
+                    "_content": "These photos offer snapshots of oil, gas, and petrochemical infrastructure and activity - and the impacts to communities and the landscape - in the state of Michigan."
+                },
+                "can_comment": 0,
+                "date_create": "1599757388",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 393,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715915957951",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728825912",
+                "secret": "5c7dc1fb9b",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "35",
+                "count_comments": "0",
+                "count_photos": 68,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Minnesota"
+                },
+                "description": {
+                    "_content": "This collection offers a look at the presence of fossil fuel industries and activities in Minnesota."
+                },
+                "can_comment": 0,
+                "date_create": "1599757452",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 68,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72177720317407832",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "53756196144",
+                "secret": "508cf0f9f5",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "4",
+                "count_comments": "0",
+                "count_photos": 55,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Movement Building"
+                },
+                "description": {
+                    "_content": "This collection captures the essence of grassroots activism, community organizing, and collective action aimed at protecting our planet and advocating for environmental justice."
+                },
+                "can_comment": 0,
+                "date_create": "1717014182",
+                "date_update": "1717016572",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 55,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157718942786524",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "51119542174",
+                "secret": "d31d042591",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "51",
+                "count_comments": "0",
+                "count_photos": 11,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Netherlands"
+                },
+                "description": {
+                    "_content": "These photos show oil &amp; gas pipelines and extraction methods in the Netherlands. "
+                },
+                "can_comment": 0,
+                "date_create": "1618603281",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 11,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157718942577569",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "51119475594",
+                "secret": "6918dcb6db",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "127",
+                "count_comments": "0",
+                "count_photos": 47,
+                "count_videos": 0,
+                "title": {
+                    "_content": "North Dakota"
+                },
+                "description": {
+                    "_content": "These photos depict fossil fuel operations in North Dakota."
+                },
+                "can_comment": 0,
+                "date_create": "1618601102",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 47,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713930010868",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49785204978",
+                "secret": "80629e5c7a",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "124",
+                "count_comments": "0",
+                "count_photos": 406,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Offshore Drilling"
+                },
+                "description": {
+                    "_content": "Offshore drilling is a mechanical process where a wellbore is drilled below the seabed. Typically, offshore drilling is done to explore for and subsequently extract petroleum which lies in rock formations beneath the seabed. These photos illustrate the buildout of offshore drilling infrastructure and activities in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587148286",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 406,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715915967486",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810453383",
+                "secret": "e1a2604112",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "1061",
+                "count_comments": "0",
+                "count_photos": 777,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Ohio"
+                },
+                "description": {
+                    "_content": "This album includes all imagery captured in the state of Ohio, depicting the oil, gas, and petrochemical industrial presence and its activities."
+                },
+                "can_comment": 0,
+                "date_create": "1599757516",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 777,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715920470247",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810080623",
+                "secret": "3e0da82159",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "2271",
+                "count_comments": "0",
+                "count_photos": 626,
+                "count_videos": 3,
+                "title": {
+                    "_content": "Pennsylvania"
+                },
+                "description": {
+                    "_content": "This album contains imagery from the oil, gas, and petrochemical buildout in the Commonwealth, including glimpses of the communities and environments infringed upon by these activities."
+                },
+                "can_comment": 0,
+                "date_create": "1599757592",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 626,
+                "videos": 3,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713805048161",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49750782757",
+                "secret": "fb8d2bc2f3",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "964",
+                "count_comments": "0",
+                "count_photos": 348,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Pipelines"
+                },
+                "description": {
+                    "_content": "North America consists of a vast network of inter- and intrastate pipelines that transport products ranging from water, to hazardous liquids, to raw materials. The US O&amp;G pipeline network is an estimated 2.6 million miles long, transporting trillions of cubic feet of natural gas, and hundreds of billions of tons of liquid petroleum products each year. The infrastructure\u2019s main environmental health and safety risks include land use and forest fragmentation, compressor station emissions, erosion and sedimentation, spills and leaks, and explosions. These photos illustrate oil and natural gas pipeline infrastructure in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586361656",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 348,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713984535282",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810080373",
+                "secret": "4fb53f1714",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "372",
+                "count_comments": "0",
+                "count_photos": 763,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Plastics & Petrochemicals"
+                },
+                "description": {
+                    "_content": "Petrochemicals are derived from oil and gas. These synthetic chemicals weren\u2019t used widely until after the 1950s, but their impact today is enormous. They make up toiletries, electronics, building materials, and synthetic fertilizers that grow our food. The most ubiquitous use of petrochemicals, however, is to make plastic. Petrochemicals are often left out of the global discussion on energy, but they are a rapidly expanding part of the fossil fuel industry. Companies are taking advantage of cheap shale gas and investing heavily into petrochemicals, particularly plastics - the fastest-growing group of bulk materials in the world. This boom in the petrochemical industry is coming at a point of increasing global awareness of the disaster that is plastic pollution. As much as 12.7 million tons of plastic waste goes into the ocean each year. In response to this crisis, hundreds of cities and many countries are instituting policies to reduce plastic consumption. The photos in this album depict the buildout of infrastructure and activities of the process by which oil, gas, and petrochemical materials are processed and transformed into plastics. The photos were captured in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587482756",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 763,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715463318091",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49728472456",
+                "secret": "16e657c65e",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "415",
+                "count_comments": "0",
+                "count_photos": 1410,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Pollution, Toxins, & Disposal Concerns"
+                },
+                "description": {
+                    "_content": "Unconventional oil and gas development produces billions of tons of waste annually. Waste products from shale gas operations include:\n\n1. Liquid waste such as brine and flowback water\n2. Sludges and semi-solids like tank bottoms\n3. Concentrated TENORM (technologically enhanced naturally occurring radioactive material)\n4. Filter cake, filter socks, and material residues\n5. Solid waste such as drill cuttings\n\nThese photos illuminate the pollutive tendencies of fossil fuel industries, the potential toxins they produce, and the irresponsible methods used to dispose of dangerous waste materials."
+                },
+                "can_comment": 0,
+                "date_create": "1597263007",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 1410,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713989079177",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49834706936",
+                "secret": "5bc69ae59c",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "155",
+                "count_comments": "0",
+                "count_photos": 145,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Power Plants"
+                },
+                "description": {
+                    "_content": "A fossil fuel power plant is a thermal power station which burns a fossil fuel \u2014 like coal or natural gas \u2014 to produce electricity. Fossil fuel power stations convert heat energy of combustion into mechanical energy, which then powers an electrical generator.  These power plants contribute to the climate crisis because they produce emissions - like methane - degrade environments and air and water quality, and contribute to ocean acidification. These photos illustrate the buildout of power plant infrastructure in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587506305",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 145,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713781640132",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49750245862",
+                "secret": "6f2c830ae0",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "219",
+                "count_comments": "0",
+                "count_photos": 773,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Refineries & Processing"
+                },
+                "description": {
+                    "_content": "These photos depict oil, gas, and petrochemical refinement and processing infrastructure and facilities in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586194571",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 773,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157716022446731",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "50355995408",
+                "secret": "867b6d0d05",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "81",
+                "count_comments": "0",
+                "count_photos": 186,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Southeastern Michigan Sand Mining & Industrial Impacts"
+                },
+                "description": {
+                    "_content": "This album contains imagery from various towns and cities in southeastern Michigan where industrial buildout has taken over and infringed on communities there. These include lime, steel, and automobile production plants, as well as coal mining and coal power plant operations \u2014 and the various storage and waste disposal sites of these industries."
+                },
+                "can_comment": 0,
+                "date_create": "1600454793",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 186,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713930235593",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49803647967",
+                "secret": "84857261a6",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "174",
+                "count_comments": "0",
+                "count_photos": 372,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Storage"
+                },
+                "description": {
+                    "_content": "These photos illustrate the infrastructural buildout of oil and gas storage facilities in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587149414",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 372,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715916673993",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49802351842",
+                "secret": "ee2b2a961a",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "757",
+                "count_comments": "0",
+                "count_photos": 623,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Texas"
+                },
+                "description": {
+                    "_content": "The photos contained in this album reflect the oil, gas, and petrochemical buildout in the state of Texas."
+                },
+                "can_comment": 0,
+                "date_create": "1599757975",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 623,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713930235603",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49834744436",
+                "secret": "c9c21c3178",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "221",
+                "count_comments": "0",
+                "count_photos": 427,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Transportation"
+                },
+                "description": {
+                    "_content": "These photos illustrate the infrastructural buildout and activities of the transport of oil and gas in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1587149414",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 427,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713808403752",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49802934052",
+                "secret": "a2ddcacecb",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "592",
+                "count_comments": "0",
+                "count_photos": 553,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Waste & Wastewater"
+                },
+                "description": {
+                    "_content": "These photos illustrate waste and wastewater production from oil, gas, and petrochemical industry in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586370615",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 553,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157719563309294",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "51322726633",
+                "secret": "6c34e449b0",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "30",
+                "count_comments": "0",
+                "count_photos": 100,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Water at Risk: the Lycoming Creek Watershed Project"
+                },
+                "description": {
+                    "_content": "Lycoming Ceek is a 37.5-mile-long tributary of the West Branch Susquehanna River in Pennsylvania. Located in Tioga, Lycoming, and Sullivan counties, its watershed is heavily forested (over 80% forest cover) and includes both state forest and state game lands. Exceptional value and high quality designations characterize much of the creek and its tributaries. These waters are home to stocked and wild trout populations as well as the eastern hellbender, the state amphibian.\n \nDespite a small human population (~20,000), the 272 square mile basin is under pressure from extensive natural gas development and companion activities, like water withdrawals. At least, 572 gas wells have been proposed in the watershed and 370 drilled. More than a dozen compressor stations and other gas-related facilities are found here plus miles of pipeline.\n \nAn important tributary to Lycoming Creek, is legendary Rock Run, considered by many to be one of the most beautiful streams in the Commonwealth. Rock Run drains a section of the Loyalsock State Forest, including the Clarence Moore lands, a sizeable area within the state forest with severed mineral rights. This relatively pristine landscape was at risk of seeing large-scale gas development with up to 19 well pads under consideration. Thanks to the work of the Foundation for Pennsylvania Watersheds, the formation of a Save PA Forests Coalition, and much education and advocacy, eventually the immediate threat of gas buildout diminished. While the urgency has waned, the bogs, wetlands, beech-birch-maple forests , and crystalline waters remain vulnerable to future drilling whims.\n \nMeanwhile, drilling on nearby public and private lands pose their own impacts to the encompassing, yet still fragile, Lycoming Creek watershed."
+                },
+                "can_comment": 0,
+                "date_create": "1626720952",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 100,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715916047551",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49810311878",
+                "secret": "3e893fc4a2",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "945",
+                "count_comments": "0",
+                "count_photos": 137,
+                "count_videos": 0,
+                "title": {
+                    "_content": "West Virginia"
+                },
+                "description": {
+                    "_content": "This imagery reflects fossil fuel infrastructure and activities in West Virginia."
+                },
+                "can_comment": 0,
+                "date_create": "1599758039",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 137,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157714219542801",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49871263952",
+                "secret": "880cc022cb",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "125",
+                "count_comments": "0",
+                "count_photos": 56,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Wildlife"
+                },
+                "description": {
+                    "_content": "Oil and gas activities can harm endangered species, critical habitats, watersheds, and ecosystems by polluting the air and water, installing disrupting infrastructure such as roads or pipelines, creating noise and light pollution, and more. These photos depict biodiversity in various locations around the US. The images depict diverse environments and their inhabitants, illustrating the multitude of species and ecosystems that underpin the balance that nature provides for us all."
+                },
+                "can_comment": 0,
+                "date_create": "1588955366",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 56,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715839176878",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49769929588",
+                "secret": "67c913b1f6",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "135",
+                "count_comments": "0",
+                "count_photos": 184,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Wildness Lost: the Pine Creek Watershed Project"
+                },
+                "description": {
+                    "_content": "The river\u2019s iconic watershed in north-central PA spans 979 square miles, including parts of Clinton, Lycoming, Potter, and Tioga Counties, and an infamous 47-mile gorge through which the Creek flows. Humans have left their mark on Pine Creek for thousands of years, but the effects of timber and fossil fuel extraction in the last 220 years are most notable. Wildness Lost explores over a decade of unconventional O&amp;G expansion in this watershed. View the digital atlas and learn more at <a href=\"https://www.fractracker.org/projects/wildness-lost-pine-creek/\" rel=\"noreferrer nofollow\">www.fractracker.org/projects/wildness-lost-pine-creek/</a>"
+                },
+                "can_comment": 0,
+                "date_create": "1599233386",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 184,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157713808860567",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49803655752",
+                "secret": "7b954427c4",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "121",
+                "count_comments": "0",
+                "count_photos": 35,
+                "count_videos": 0,
+                "title": {
+                    "_content": "Wind Energy"
+                },
+                "description": {
+                    "_content": "Wind energy refers to the creation of electricity using wind or air flows that occur naturally in the atmosphere. Modern wind turbines are used to capture kinetic energy from the wind and generate electricity. Postively, wind is a clean, renewable energy source, and is one of the most cost-effective sources for electricity. On the downside, wind turbines can be noisy and unappealing aesthetically, and can sometimes adversely impact the physical environment around them. However, the long-term carbon footprint of wind turbines is far less than fossil fuel energy production. These photos illustrate advances in wind energy utilization in various locations around the US."
+                },
+                "can_comment": 0,
+                "date_create": "1586373188",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 35,
+                "videos": 0,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157715920546937",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "49782054446",
+                "secret": "8144a0421d",
+                "server": "65535",
+                "farm": 66,
+                "count_views": "342",
+                "count_comments": "0",
+                "count_photos": 414,
+                "count_videos": 1,
+                "title": {
+                    "_content": "Wisconsin"
+                },
+                "description": {
+                    "_content": "This album contains images of the fossil fuel industrial presence and its activities in Wisconsin."
+                },
+                "can_comment": 0,
+                "date_create": "1599758081",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 414,
+                "videos": 1,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            },
+            {
+                "id": "72157716857731186",
+                "owner": "186454571@N08",
+                "username": "FracTracker_Alliance",
+                "primary": "50437263263",
+                "secret": "5fc827bc46",
+                "server": "0",
+                "farm": 0,
+                "count_views": "36",
+                "count_comments": "0",
+                "count_photos": 0,
+                "count_videos": 4,
+                "title": {
+                    "_content": "Videos"
+                },
+                "description": {
+                    "_content": "The videos in this album illustrate the buildout of the fossil fuel landscape in the US, including imagery of facilities, connections between them, and the land, communities, and life that surrounds them."
+                },
+                "can_comment": 0,
+                "date_create": "1605212843",
+                "date_update": "1717014203",
+                "sorting_option_id": "manual-add-to-end",
+                "photos": 0,
+                "videos": 4,
+                "visibility_can_see_set": 1,
+                "needs_interstitial": 0
+            }
+        ]
+    },
+    "stat": "ok"
+}
