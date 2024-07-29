@@ -8,6 +8,7 @@
 | `What_Is_A_Panda.ipynb`   | Common Pandas methods   |
 | `A_Clean_Title.ipynb`   | Tedious cleaning of the title column   |
 | `Description_diff.ipynb`   | What the diff between descriptions   |
+| `Wrangling the "Title" field.md`   | Some note on cleaning Title   |
  
 ### TODO
  - add `async` to get info calls (Threaded, but DONE!) Run time from 75min to 3 min!!!!
