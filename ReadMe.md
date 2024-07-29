@@ -2,7 +2,7 @@
 |----------|----------|
 | `sync.p.py`   | profiled synchronous Flickr API pull   |
 | `sync.py`   | synchronous Flickr API pull    |
-| `threaded_data_pull.py`   | threaded API call   |
+| `thread_data_pull.py`   | threaded API call   |
 | `Wrangle_Me_Not.ipynb`   | Remove photo duplicates by grouping album titles   |
 | `pull_flickr_data.ipynb`   | Understanding the API call   |
 | `What_Is_A_Panda.ipynb`   | Common Pandas methods   |
